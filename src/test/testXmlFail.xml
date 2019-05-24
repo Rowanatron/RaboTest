@@ -1,0 +1,16 @@
+<records>
+  <record reference="1234">
+    <accountNumber>NL46ABNA0625805417</accountNumber>
+    <description>Failed transaction from testfile</description>
+    <startBalance>124.06</startBalance>
+    <mutation>-10.37</mutation>
+    <endBalance>13.69</endBalance>
+  </record>
+  <record reference="198717">
+    <accountNumber>NL91RABO0315273637</accountNumber>
+    <description>Subscription for Jan Bakker</description>
+    <startBalance>109.52</startBalance>
+    <mutation>+31.87</mutation>
+    <endBalance>141.39</endBalance>
+  </record>
+</records>
